@@ -2,7 +2,7 @@
 
 Bu depo (repository), elektronik mühendisliği eğitimi sürecinde **PSIM** ve diğer simülasyon araçları kullanılarak yapılan devre analizlerini, laboratuvar deneylerini ve raporlarını içerir.
 
-## 📂 İçerik Listesi
+##  İçerik Listesi
 
 ### 1. Diyot Karakteristikleri (Deney 3)
 Diyotların doğru (forward) ve ters (reverse) polarma altındaki davranışlarının incelenmesi.
